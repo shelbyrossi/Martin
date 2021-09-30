@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+}
+
+
+.content {
+    align-content: center;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 15em;
+    margin: .10em;
+}

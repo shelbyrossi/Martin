@@ -1,7 +1,15 @@
 .header {
+    
     text-align: center;
+    font-size: 50px;
+    margin-bottom: -250px;
+    text-shadow: 2px 2px lavenderblush;
+    
 }
 
+body {
+    background-color:#A4D2D2;
+}
 
 .content {
     align-content: center;
@@ -9,4 +17,16 @@
     flex-wrap: nowrap;
     padding: 15em;
     margin: .10em;
+    color: black;
+}
+
+.description__1 {
+
+    margin: 35px;
+
+
+}
+
+img {
+    border: 2px solid black;
 }
